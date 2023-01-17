@@ -12,6 +12,7 @@ Prettier
 
 Install:
 npm i or: npm i react react-dom react-router-dom
+See Button.js --> npm install --save styled-components
 //npm i react-bootstrap bootstrap
 
 <string>Shortcut to create a React function: rafce</strong>
